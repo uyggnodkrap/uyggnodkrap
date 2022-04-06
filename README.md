@@ -64,12 +64,11 @@ Data Engineering
 
 ## Status
 
-  <img src="https://github-readme-stats.vercel.app/api?username=whereyoulive&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereyoulive&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uyggnodkrap&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyggnodkrap&layout=compact&theme=vue&hide_border=true" />
+
 
  
- 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/uyggnodkrap)
  
 ## Contach with me
 <!-- :iphone: 01030098818 <br/> -->
