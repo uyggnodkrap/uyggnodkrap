@@ -2,7 +2,7 @@
 <br/>
 <h2>Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> <br/><br/>
 
-### 배워서 남 주기<br/>
+### 배워서 남 주자<br/>
 
 ## Skillset
 <p>
