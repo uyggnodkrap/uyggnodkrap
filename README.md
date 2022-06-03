@@ -70,7 +70,7 @@
 
  
  
-## Contac with me
+## Contact with me
 <!-- :iphone: 01030098818 <br/> -->
 :mailbox: uyggnodkrap26@gmail.com
 
