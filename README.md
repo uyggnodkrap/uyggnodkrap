@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/102901226/183287564-d65098fd-21cf-4771-a2b1-6c2602200462.jpg" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/102901226/198303078-2133c81d-d86e-48d9-9247-96933b8db54f.jpg" alt="drawing" width="600"/>
 
 
  <p/>
@@ -44,7 +44,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> <br/>
 
           
-
 </p>
 
 <br/>
